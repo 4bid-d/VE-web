@@ -5,7 +5,7 @@ You can write JS code, using the pixi.js engine, to add the desired effect of th
 ![demonstration](./public/demonstration.gif)
 [demo](https://prd-bs-oss.oss-cn-shanghai.aliyuncs.com/down/updates/demonstration.gif)
 
-## Install
+## Installation
 
 Binaries are regularly built and are available at [VE-web Setup](https://prd-bs-oss.oss-cn-shanghai.aliyuncs.com/down/updates/VE-web%20Setup.exe)
 
